@@ -1,0 +1,3 @@
+[submodule "3rd/sproto"]
+	path = 3rd/sproto
+	url = git@github.com:cloudwu/sproto.git
